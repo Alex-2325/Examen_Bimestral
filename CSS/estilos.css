@@ -1,0 +1,66 @@
+body{
+    background-image:url("https://viajesyestilo.com/wp-content/uploads/2018/06/Per%C3%BA-monta%C3%B1a-de-colores-e1529135707518.jpg");
+background-size:100%
+
+}
+.titulo{
+
+    color: rgb(45, 21, 78);
+    text-decoration: none;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 8em;
+    font-family:"roboto mono"
+}
+.navegacion{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-size: 1.5em;
+    font-weight: none;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.438)
+}
+.subtitulo{
+    color:rgba(104, 106, 199, 0.87);
+    font-size: 3em;
+    font-style: italic;
+    font-weight: bolder;
+}
+.texto{
+    color:rgb(211, 191, 191);
+    text-align: right;
+    font-family: "roboto mono";
+    font-size: 1.5em;
+    font-weight: bolder;
+    background-color: rgba(61, 58, 58, 0.514);
+}
+.uno{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.dos{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.tres{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.cuatro{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.cinco{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.seis{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.siete{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.ocho{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.nueve{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.diez{
+    background-color:rgba(97, 90, 136, 0.377)
+}
